@@ -1,0 +1,4 @@
+c:\users\karunakark\documents\visual studio 2010\Projects\DevOps\DevOps\bin\DevOps.dll
+c:\users\karunakark\documents\visual studio 2010\Projects\DevOps\DevOps\bin\DevOps.pdb
+c:\users\karunakark\documents\visual studio 2010\Projects\DevOps\DevOps\obj\Debug\DevOps.dll
+c:\users\karunakark\documents\visual studio 2010\Projects\DevOps\DevOps\obj\Debug\DevOps.pdb
